@@ -1,0 +1,39 @@
+body {
+  width: 200px;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 10px;
+}
+
+button {
+  margin: 5px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.section {
+  margin-top: 15px;
+  border-top: 1px solid #ccc;
+  padding-top: 10px;
+}
+
+#userDescription {
+  width: 100%;
+  padding: 5px;
+  margin-bottom: 6px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+}
+
+button {
+  cursor: pointer;
+  background-color: #4A90E2;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  padding: 6px 10px;
+}
+
+button:hover {
+  background-color: #357ABD;
+}
