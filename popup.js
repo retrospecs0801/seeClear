@@ -100,7 +100,7 @@ Return only the single word, nothing else.
 
   try {
     const response = await fetch(
-      "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=AIzaSyCea2ZfD2znQqSZTEaXuRLeUht8rjBEGMc",
+      "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=AIzaSyC38w9jc1DH_bh45UpA1yh65aAA6zP7Gs4",
       {
         method: "POST",
         headers: {"Content-Type": "application/json"},
